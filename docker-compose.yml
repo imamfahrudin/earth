@@ -1,0 +1,4 @@
+services:
+  earth:
+    image: earth
+    container_name: earth
